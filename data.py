@@ -2,6 +2,8 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
+# formulating
+
 # number of training samples
 NUM_TRAIN_SAMPLES = 1000
 # number of test samples
